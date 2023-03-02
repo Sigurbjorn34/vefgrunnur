@@ -13,8 +13,8 @@ body texti hér (p)
 *listi 
 
 1.listi
-1.listi
-1.listi 
-1.listi
-1.listi
-1.listi
+2.listi
+3.listi 
+4.listi
+5.listi
+6.listi
